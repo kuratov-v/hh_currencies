@@ -24,14 +24,12 @@ example localhost:8000/api?date1=2020-12-12&date2=2020-10-12&char_code=USD
 
 Response:
 {
-"success":{
     "currency_code":"USD",
     "date_1":"2020-12-12",
     "value_1":77.0239,
     "date_2":"2020-10-12",
     "value_2":79.3323,
     "difference":-2.308400000000006
-    }
 }
 ```
 
